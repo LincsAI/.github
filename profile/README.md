@@ -1,5 +1,6 @@
 ## Hi there 👋
-This is a test page :)
+
+Welcome to the GitHub page for Lincoln AI Lab (LAIL). 
 
 <!--
 
