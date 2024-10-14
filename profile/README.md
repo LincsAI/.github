@@ -16,5 +16,5 @@ We are:
 
 * 👩‍💻 Afila Ajithkumar Sophiya/ PhD student @ LAIL
 
-* 👩‍💻 Kenechukwu Ogbuagu / PhD student @ LAIL
+* 👨‍💻 Kenechukwu Ogbuagu / PhD student @ LAIL
 
