@@ -4,7 +4,7 @@ Welcome to the GitHub page for Lincoln AI Lab (LAIL). You can find some of our p
 
 We are:
 
-* 🤖 Sepehr Maleki
+* 👨‍💻 Sepehr Maleki
 
 * 👨‍💻 Giuseppe Bruni / PhD student @ LAIL
 
