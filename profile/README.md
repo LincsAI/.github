@@ -14,5 +14,7 @@ We are:
 
 * 👩‍💻 Shafagh Abband Pashaki / PhD student @ LAIL
 
-* 👩‍💻 Ghazaleh Fahmi / PhD student @ LAIL
+* 👩‍💻 Afila Ajithkumar Sophiya/ PhD student @ LAIL
+
+* 👩‍💻 Kenechukwu Ogbuagu / PhD student @ LAIL
 
